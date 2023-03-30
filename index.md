@@ -5,3 +5,4 @@
 
 ## 보존된 푸치 프로필 목록
 * [syu_nong_asuka](etc/puchi/syu_nong_asuka)
+* [hajime_heart_aiko](etc/puchi/hajime_heart_aiko)
