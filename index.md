@@ -2,6 +2,12 @@
 
 ## 보존된 아이돌 갤러리 목록
 * [syu](idols/syu)
+* [nong](idols/nong)
+* [asuka](idols/asuka)
+* [hajime](idols/hajime)
+
+## 보존된 기타 커뮤 목록
+* [temptation_evil_history](etc/episodes/temptation_evil_history)
 
 ## 보존된 푸치 프로필 목록
 * [syu_nong_asuka](etc/puchi/syu_nong_asuka)
