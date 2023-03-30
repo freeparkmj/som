@@ -7,7 +7,7 @@
 * [hajime](idols/hajime)
 
 ## 보존된 기타 커뮤 목록
-[temptation_evil_history](idols/etc/episodes/te_revision)
+* [temptation_evil_history](idols/etc/episodes/te_revision)
 
 ## 보존된 푸치 프로필 목록
 * [syu_nong_asuka](etc/puchi/syu_nong_asuka)
